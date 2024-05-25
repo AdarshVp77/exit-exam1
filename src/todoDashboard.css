@@ -1,0 +1,48 @@
+h1 {
+    font-weight: bold;
+  }
+  
+  input.form-control {
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 0.25rem;
+  }
+  
+  .add-btn {
+    margin-bottom: 10px;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .add-btn:hover {
+    background-color: #007bff;
+    transform: scale(1.1);
+  }
+  
+  button {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+  }
+  
+  button.active-filter {
+    background-color: #007bff;
+    color: white;
+  }
+  
+  .list-group-item {
+    font-family: 'Arial', sans-serif;
+    padding: 1rem;
+  }
+  
+  .list-group-item button {
+    transition: background-color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .list-group-item button:hover {
+    background-color: #dc3545;
+    transform: scale(1.05);
+  }
+  

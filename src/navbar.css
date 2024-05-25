@@ -1,0 +1,10 @@
+.nav-link {
+    font-size: 18px !important;
+    font-weight: bold;
+}
+.header{
+    font-family: 'Courier New', Courier, monospace;
+}
+.nav-link:hover{
+    color: rgb(16, 84, 230);
+}
